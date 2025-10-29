@@ -33,4 +33,10 @@ The goal of this analysis is to identify patterns and thresholds that determine 
 
 ### 4️⃣ What is the relationship between calculated points and loan approval?
 - **Formula Used:points = 0.0003*income + 0.05*(credit_score/10) + 0.5*years_employed - 0.001*loan_amount; loan_approved = points >= 65
-**
+
+
+## 📂 Dataset
+
+The dataset used in this project — **loan_approval.csv** — was sourced from **Kaggle**.  
+It contains applicant details such as **income, credit score, loan amount, years employed, and loan approval status**, which were analyzed to identify patterns and factors influencing loan approval decisions.
+
